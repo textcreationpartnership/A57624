@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Room for news, or, News from Rome being a dialogue between the Pope and the Devil at a late conference : consulting the most effectual expedients for promoting their joint interest and designs in the present juncture of affairs : with their instructions concluded upon to be sent to their emissaries in all parts to that purpose.</title>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57624</idno><idno type="EEBO-CITATION">10409783</idno>
+  <idno type="VID">44966</idno>
+  <idno type="EEBO-PROQUEST">2240951644</idno>
+  
+            <idno type="STC">Wing R1926</idno>
+            <idno type="STC">ESTC R28106</idno>
+            <idno type="OCLC">10409783</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44966)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1389:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Room for news, or, News from Rome being a dialogue between the Pope and the Devil at a late conference : consulting the most effectual expedients for promoting their joint interest and designs in the present juncture of affairs : with their instructions concluded upon to be sent to their emissaries in all parts to that purpose.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by Martin Marpope ;</publisher>
+                  <publisher>printed for H.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Clement --  X, --  Pope, 1590-1676.</term>
+               <term type="topical_term">Anti-Catholicism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44966:1"/>
+            <p>ROOM for NEWS, OR Nevvs from ROME, BEING A DIALOGUE BETWEEN THE POPE and the DEVIL At a late Conference.</p>
+            <p>Consulting the most effectual Expedients for pro<g ref="char:EOLhyphen"/>moting their <hi>Joint Interest</hi> and <hi>Designs</hi> in the present <hi>Juncture</hi> of Affairs.</p>
+            <p>With their <hi>Instructions</hi> concluded upon to be sent to their <hi>Emissaries</hi> in all Parts to that purpose
+<q xml:lang="lat">
+                  <l>Accipe nunc Papae Infidias</l>
+                  <l>Flectere si nequeat superos Acheronta movebit.</l>
+               </q>
+            </p>
+            <p>Published by <hi>Martin Marpope,</hi> Author of the <hi>Protestant Almanack.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>H. S.</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:44966:2"/>
+            <head>
+               <hi>News from</hi> ROME, <hi>OR A Dialogue between the</hi> Pope <hi>and the</hi> Devil.</head>
+            <head type="sub">The Introduction, or Occasion of the Conference.</head>
+            <p>HIs <hi>Holiness</hi> being lately much perplext at the Receipt of a Packet from <hi>Ʋtopia,</hi> intimating that some of his most hope<g ref="char:EOLhyphen"/>ful <hi>Proje<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts,</hi> thwarted by Providence, were like to miscar<g ref="char:EOLhyphen"/>ry; forthwith Summon'd all the <hi>Cardinal,</hi> to a solemn <hi>Con<g ref="char:EOLhyphen"/>clave,</hi> where a Thousand Proposals were made for Retriving the <hi>des<g ref="char:EOLhyphen"/>perate Game,</hi> yet none that seem'd Satisfactory: Whereupon Dis<g ref="char:EOLhyphen"/>missing that Assembly, the <hi>holy Father</hi> reflecting how Famous divers of his Predecessors had been for <hi>Negromancy,</hi> and <hi>Conjuring,</hi> sends immediately to the <hi>Vatican</hi> for some choice Volumns of <hi>Magick,</hi> and retiring (when Night-masking Heavens Face made all things ap<g ref="char:EOLhyphen"/>pear <hi>Black</hi> in conformity with his Designs, and no Noise but the Mus<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck of howling Wolves, and Schreechowlds Hollows could be heard) to an obscure Corner of <hi>Belvidere</hi> his private Garden, he there with the accustomed Ceremonies, Invokes <hi>Lucifer,</hi> Prince of the Fallen Angels, to make his personal Appearance; Not doubting but that Subtle <hi>degraded Seraphin</hi> (knowing it to be their <hi>Joynt Concern</hi>) would furnish him with some fresh New-minted <hi>Policies,</hi> for carrying on his Business in this unexpected <hi>Exigency.</hi> Scarce had he finished his dreadful <hi>Orisons</hi> (which he repeated with more Devotion than ever he <hi>Mumbled</hi> out an <hi>High Mass</hi>) when the welcome <hi>Monarch</hi> of the In<g ref="char:EOLhyphen"/>fernal Crew appears, usher'd with flashes of <hi>Lightning,</hi> and thus Accosts him.</p>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>Who thus Imperiously summons our Presence? We are of late too much Crowded with Imployments, both Military and Civil, Ecclesiastick and Secular, to attend every Impertinents plea<g ref="char:EOLhyphen"/>sure: Speak therefore, and briefly thy Name and Business.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I am, dread Prince of Darkness! <hi>Servus servorum,</hi> the humblest of your Vassals, your Deputy, your <hi>Vice-Roy</hi> on Earth, on whom your Bounty has conferr'd the <hi>Tripple Crown,</hi> and other marks of <hi>Damnable Favour:</hi> My Business is to Implore your Advice and
+<pb n="3" facs="tcp:44966:2"/>
+                  <hi>Directions</hi> in certain Affairs, that not a little concern both mine own and your Interest.</p>
+            </sp>
+            <sp>
+               <speaker>Devil</speaker>
+               <p>Who? Our <hi>Infallible Factor?</hi> The Support of our Empire, and Darling of our Hopes? To <hi>Thee</hi> both our <hi>Ear</hi> and <hi>Breast</hi> shall be ever Open.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Gracious <hi>Belzebub!</hi> You oblige me eternally to s<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rve you. And as your Assistance heretofore brought Princes to <hi>Kiss</hi> my Gouty <hi>Toes,</hi> I cannot in Gratitude refrain from Paying the same Devotion to your most reverend <hi>Cloven Foot.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>Spare now that unnecessary Complement, and Acquaint us with the present Posture of Affairs.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I am all Obedience to your Commands: But must crave leave to state things <hi>ab Origine—</hi>'Tis not unknown to your Ghost<g ref="char:EOLhyphen"/>ly Intelligence, what faithful <hi>V<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aries</hi> my self and Predecessors for many hundred Years, have been to your <hi>Hellish Interest,</hi> after your <hi>Delphick</hi> Oracles were struck Dumb, and your <hi>Hea<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen Slaves</hi> grown weary of doing your Tormenting <hi>Drungeries.</hi> When the Light of the <hi>Gospel</hi> in its Purity (which designs the utter Overthrow of your dark Kingdom) had Baffled all your Fury, becoming more bright by the surrounding Flames of <hi>Persecution,</hi> so that you were forced for a time to wave fruitless <hi>R gours,</hi> and Refer the Conduct of your Af<g ref="char:EOLhyphen"/>fairs to our Management. You may remember how suddenly by an<g ref="char:EOLhyphen"/>other <hi>Path,</hi> we Re-establish your Power greater then ever: Our fain<g ref="char:EOLhyphen"/>ed <hi>Traditions,</hi> new invented <hi>Doctrines, Cannons, Decrees, Decretals, Constitutions,</hi> and Pompuous <hi>Ceremonies,</hi> had soon altered the Face of the Church, and rendred it quite different in all things (but the <hi>Name</hi>) from the Primitive Simplicity: Our <hi>Pardons, Absolutions, Indulgencies,</hi> permitting of publick <hi>Stews</hi> or Bawdy-Houses, our Doctrines of <hi>Merit, Venial sin, Purgatory,</hi> and works of <hi>Superar<g ref="char:EOLhyphen"/>rogation.</hi> What were they all but so many <hi>Draw-Nets,</hi> or <hi>Limetwigs</hi> to Inveigle the <hi>Looser</hi> and Unwary part of Mankind in your Snares and <hi>Lake of Perdition.</hi> After that, I need not Recount the Bloody <hi>Wars</hi> we have Raised, the horred <hi>Treasons</hi> we have Fomented, the cruel <hi>Massacres</hi> we have caused throughout <hi>Bohemia, England, France,</hi> and <hi>Germany</hi> of old, and in <hi>Ireland,</hi> and Vallies of <hi>Pedemont</hi> of a latter date; whereby some <hi>Millions</hi> of Innocent and Pious Souls have been by our <hi>Religious Industry,</hi> offered up as so many <hi>Victives</hi> to your Hellish Malice: Besides this, we have of <hi>Late—</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>Hold, hold, good Mr. <hi>Pope,</hi> though we allow you to Preach your Doctrine of <hi>Merit</hi> to others, you must not Boast it to us: We
+<pb n="4" facs="tcp:44966:3"/> acknowledg your eminent <hi>Services,</hi> nor have we been behind-hand in Retaliations: Have we not Advanced you to <hi>Riches, Pomp,</hi> and <hi>Glo<g ref="char:EOLhyphen"/>ry?</hi> To the Title of <hi>Ʋniversal Bishop,</hi> and Successor of <hi>Peter</hi> (though you Imitate him in nothing, but <hi>denying</hi> his Master?) Have we not brought you to Lord it over all your fellow Bishops; and behold with Contempt, Kings and Emperors at your Feet? Is not your Interest and Advantage inseperably <hi>Twisted</hi> with mine? If your Doctrines or Ceremonies bring me in <hi>Souls.</hi> Do they not bring you in <hi>Money?</hi> And when your Zeal destroys my <hi>Enemies,</hi> Do you not provide for your own Safety and <hi>Gran<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eur?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>'Tis confest, <hi>Mighty Satan!</hi> Nor did I intend to upbraid you with our Devoirs, but to induce you thereby rather to our Assistance: For some few Ages ago a Pestilent Generation sprung up, that would pull down the whole Fabrick we so long have been Building, and Re<g ref="char:EOLhyphen"/>store <hi>Religion</hi> in its Primitive Beauty, stript of all those Meritricious <hi>Gayties,</hi> which at once both Replenish your Territories and our <hi>Coffers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>Pish, pish, did I not Teach you long since a Medicine, cal<g ref="char:EOLhyphen"/>led <hi>The Inquisition,</hi> to stop the spreading of such Leprosies?</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>True: But alas! It came <hi>too late,</hi> some Kingdoms were so Infected, that they cast off all Subjection to our Authority, and left no hopes (at least as yet) of bringing that most <hi>Excellent Engine</hi> amongst them to Reduce ▪um.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>In that case too, I many years ago provided thee an Expe<g ref="char:EOLhyphen"/>dient, by Erecting the Society of <hi>Jesuits,</hi> those Machless Embroilers of Affairs, who being sent Abroad, will, I doubt not by their learn<g ref="char:EOLhyphen"/>ed and Active Zeal, soon bring back these stragling Hereticks to Roost under the Wings of <hi>Mother Church,</hi> and Truckle to your Irish-wooden Chair.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Upon my <hi>Holiness</hi> your <hi>Devilship</hi> is egregiously mistaken, a <hi>Jesuite,</hi> 'tis true, about 40 or 50 years ago was a pretty sprightly Instrument: When they durst <hi>tab</hi> a wavering Monarch, or <hi>Blow up</hi> an Heretical State at a Blast. But now, alas! he is grown Old, Rus<g ref="char:EOLhyphen"/>ty and <hi>Dismetled;</hi> his very Name <hi>Odious</hi> amongst many of our own Party; his prodigious <hi>Learning</hi> found but a blazing Meteor, and his Treasons, Murthers, and Equivacations, Cosenages, and other <hi>Ex<g ref="char:EOLhyphen"/>cellencies</hi> become too over palpable.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>Your Holiness prates like an <hi>Infallible Sot,</hi> thus to dispa<g ref="char:EOLhyphen"/>rage the most Trusty <hi>Janizaries</hi> of our Empire: The duller Order <hi>Francisca<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> and <hi>Capuchins,</hi> with their nasty Austerities, may amuse
+<pb n="5" facs="tcp:44966:3"/> Melancholy Fools: But 'tis these active <hi>sociable Incendiaries</hi> must do the grand work, who by their Oyly Tongues and pliable Behaviour, Insinuate themselves in Princes Courts, to Dive into their <hi>Cabinet Councels,</hi> and at the same time Abet all Factions, to Infuse specious <hi>Principles preparatory</hi> to our Designs in the Head of the unwary Rabble.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>True it is, all this and more they have done, Screwing them<g ref="char:EOLhyphen"/>selves into the Affections of <hi>Grandees,</hi> as gently as malevolent <hi>Stars</hi> dart their Influence, or blasting Mildews slide into the Bosome of a Flower. They have varied Shapes oftner than the <hi>Camelean</hi> at Land, or <hi>Polypus</hi> at Sea; now a Courtier, to Morrow a Souldier, then a Cobler, by and by a Weaver; a Gallant amongst the Ladies in the <hi>Park;</hi> an Atheist amongst the <hi>Coffee-wits,</hi> and a <hi>Quaker</hi> at <hi>Devonshire House.</hi> Yet when we thought all <hi>Cock sure prepar'd,</hi> and doubted not but to have Stem'd the Tide of Opposition by a Torrent from our <hi>Romish See;</hi> Behold, an unhappy Providence <hi>damps</hi> the progress, and the <hi>Alarm</hi> takes through the <hi>City,</hi> as fast as our Train of <hi>Wildsire</hi> in <hi>Sixty six:</hi> Immediately the <hi>Pulpit</hi> Rings, and the Press Groans with Invectives against our Doctrines: All our Policies are Unravel'd, our <hi>Sacred person</hi> exposed to Contempt, and <hi>Burnt</hi> by the Hereticks in <hi>Essigie.</hi> In brief, This most <hi>holy Design</hi> which we have so long been Midwifing into the VVorld, is like to prove <hi>Abortive</hi> and fatally Miscarry; unless your <hi>Old Dragon</hi> subtlety, can speedily by some wonderful Stratagem, revive it to perfection.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>Be patient, <hi>dear Child!</hi> and bend a little to Fate, remem<g ref="char:EOLhyphen"/>ber your Country proverb, <hi>Pian piano,</hi> what is said of the City holds true of your Faith,
+<q xml:lang="lat">Non fuit in uno Condita Roma die:</q>
+                  <q>Rome is not Built in a day.</q> Great Mutations require <hi>Time,</hi> be not too hasty, he goes <hi>safest</hi> that walks <hi>pedetentim;</hi> Physitians never administer Remedies in the <hi>Fit,</hi> stay till this <hi>Paroxism</hi> is over, way-lay Opportunity, and Learn to Sail with every wind. In the mean time follow me to the next Ar<g ref="char:EOLhyphen"/>bour where we will prepare Instructions for our <hi>Emissaries</hi> abroad as we conceive most convenient in the present Juncture.</p>
+            </sp>
+            <p>Hereupon laying their Heads together for an hour like the <hi>Toad,</hi> lending Poy<g ref="char:EOLhyphen"/>son to the <hi>Viper,</hi> their teeming Inventions were delivered of the fol<g ref="char:EOLhyphen"/>lowing By-blow.</p>
+            <q>
+               <pb n="6" facs="tcp:44966:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="list_of_instructions">
+                        <head>
+                           <hi>INSTRUCTIONS</hi> to be pursued by all <hi>Nuncio</hi>'s, <hi>Jesuits, Priests, Lay-sticklers,</hi> and other <hi>Factors</hi> of the <hi>See of Rome,</hi> for faciliating the Re esta<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lishment of <hi>Popery,</hi> in Heretical Countries.</head>
+                        <list>
+                           <item>
+                              <hi>Imprimis,</hi> You shall make the <hi>Advancement</hi> of the <hi>Romish Church</hi> your Pole-Star. The Centre whereto all your words and Actions tend, For attaining which end, you shall bank no <hi>means</hi> be they never so unjust or Abominable, for he that thinks <hi>Fraud</hi> cannot be <hi>pious</hi> or Pi<g ref="char:EOLhyphen"/>ety, f audulent is a Short-ear'd Ass, and was never bottom'd in <hi>School Divinity.</hi>
+                           </item>
+                           <item>2. You shall discover or <hi>conceal</hi> your Religion, as best suits your conveniences, And rather than loose a good place for want of <hi>a Renun<g ref="char:EOLhyphen"/>ciatory Oath.</hi> you shall have from us <hi>Dispensations</hi> and <hi>Pardons</hi> Gratis, to Indempnify your Souls; yet still you shall pretend in publique to a most Stout <hi>Honesty</hi> and <hi>Sincerity.</hi> For
+<q>
+                                 <l>The Stratagem is then Exalted High</l>
+                                 <l>When th' <hi>Hypocrite</hi> reviles <hi>Hypocrisie.</hi>
+                                 </l>
+                              </q>
+                           </item>
+                           <item>3. Think not to put off all your ware at once, down right <hi>Popery</hi> at first dash is <hi>frightful,</hi> But those that <hi>Keck</hi> at it <hi>whole,</hi> will <hi>swallow</hi> it handsomely <hi>Minc'd,</hi> First, Tinge people with a <hi>Preparative Blew,</hi> and then <hi>Sause</hi> 'um with the Colour of the <hi>Scarl<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>t Whore,</hi> begin with our most plausible Principles, The Vulgar never mind the <hi>Tail</hi> of the business, yet there lies the <hi>Stings,</hi> When the Needles once through, the Thred will follow; some serious <hi>Truths</hi> must be delivered the better under those Palliations to disseminate our profitable <hi>Errours,</hi> so a <hi>Stinck</hi> offends more when Concomitant with some weak <hi>Perfams,</hi> which it hath <hi>Pro vchimlo,</hi> than when 'tis single, The perfume pro<g ref="char:EOLhyphen"/>curing for the stench, easier Admittance into the Sense: Thus <hi>Poysons</hi> are most dangerous, and irremediable when joyn'd in Commission with a <hi>Cordial</hi> too weak to resist them, it only serving to Conduct them to the <hi>Heart,</hi> but is unable to vanquish their malignity.</item>
+                           <item>4. Let your deportment be complaisant, even to servile <hi>Flattery;</hi> Court your very Enemies with the most oblidging Language and Pro<g ref="char:EOLhyphen"/>testations of Kindness, Kiss those hands you would cut off, and <hi>Hug</hi> him you cannot <hi>Hang,</hi> at least, untill you can; Still fashion your selves to the humour of the present Company, As the light is <hi>round</hi> in the Sun, in the fire <hi>Pyramidal.</hi> If any Recommend <hi>Liberty of Con<g ref="char:EOLhyphen"/>science,</hi> do you straight cry out against <hi>Persecution,</hi> and laugh not for a world; but remember you are yet a while to play the <hi>Foxes</hi> and <hi>Wolves,</hi> in Sheeps Cloathing: 'Tis hereafter in the <hi>Inquisition</hi> you
+<pb n="7" facs="tcp:44966:4"/> are to Act the parts of <hi>Lyons Rampant.</hi>
+                           </item>
+                           <item>5. In privated scourses you shall passionately bewail the <hi>Variety</hi> of Sects and Op<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nions among'st <hi>Protestants</hi> (yet still promote such dif<g ref="char:EOLhyphen"/>ferences what you can) representing the difficulty of <hi>Scriptures</hi> to be understood; How every <hi>Heresit</hi> seeks protection there, and a thou<g ref="char:EOLhyphen"/>sand different Judgments vouch their Warrant from the <hi>same</hi> Text. Hence you shall take occasion slily to magnifie the <hi>Ʋnity</hi> of <hi>Rome,</hi> (though indeed there's no such thing) That without a <hi>Judge</hi> there can be no <hi>decision,</hi> without <hi>Infallibility</hi> no <hi>Certainty,</hi> and consequently, no <hi>Security,</hi> That such as Skip the <hi>Pale</hi> of the Church, are always in a <hi>Roleing</hi> Condition and like a floating Island or the Sea-weed, know not where to take nor how to keep <hi>Root,</hi> yet still perswade people there's no danger of <hi>Popery,</hi> no design to introduce it, that such a charge is ridiculons to imagine, impossible to be accomplisht, <hi>&amp;c.</hi> When men <hi>Sleep</hi> is the onely time to sow <hi>Tears; Security</hi> dwells next door to <hi>Ruine.</hi>
+                           </item>
+                           <item>6. Study profoundly, humours and Interests; to the <hi>poor</hi> magnify <hi>Popish Charity,</hi> and the Noble House-keeping of old; To Young-<hi>Scholars</hi> the Learning of the <hi>Jesuits,</hi> and the excellent Method and <hi>Discipline</hi> of their Schools beyond the Seas; to the Debauch'd, re<g ref="char:EOLhyphen"/>present the moderation of your Church in voting the wanton <hi>Sillies</hi> of Nature (as <hi>Whoredom, Adultery, Incest, and Sodomy</hi>) but <hi>veniall Peccadillies,</hi> and granting <hi>Indulgencies</hi> at <hi>easie</hi> Rates, for greater Crimes.</item>
+                           <item>7. Promote that Laudable Design of <hi>Atheism,</hi> which you have al<g ref="char:EOLhyphen"/>ready so hopefully begun, For those that have no regard for <hi>any</hi> Re<g ref="char:EOLhyphen"/>ligion to be sure will never oppose <hi>one</hi> that is so fitted for their turn, and near of kin in effect to their present Sentiments.</item>
+                           <item>8. You shall more Industriously spread your Nets for the <hi>Rich,</hi> and the <hi>Great,</hi> who being most allied to the World, are aptest to comply with any Religion that's <hi>thriving,</hi> Besides the Influence of their <hi>Ex<g ref="char:EOLhyphen"/>ample</hi> and power on their <hi>Domesticks, Relations,</hi> and <hi>Dependants</hi> for you may see when the Tide <hi>turns,</hi> all the Ships at Anchor in the River presently change <hi>Head</hi> for <hi>Sterne.</hi>
+                           </item>
+                           <item>9. A <hi>Miracle</hi> now and then may do well amongst the Vulgar, but cautiously, 'tis a Subtle Eagle ey'd Age, be sure therefore prepare your Counterfeit, that is to be <hi>possest</hi> very well, and carry your hand and Invisible Jugglining hair <hi>clearly.</hi>
+                           </item>
+                           <item>
+                              <hi>Lastly,</hi> Forget not our <hi>primitive policy</hi> in Tempting <hi>Eve</hi> first, pro<g ref="char:EOLhyphen"/>selite the <hi>Women,</hi> and let them alone to draw in the <hi>men;</hi> There is no Devil to the <hi>Shee-Devil,</hi> They long since brought the <hi>Strongest</hi> of
+<pb n="8" facs="tcp:44966:5"/> men to <hi>Ruine,</hi> and the <hi>Wisest</hi> to <hi>Idolatry.</hi> Our more <hi>private</hi> Directi<g ref="char:EOLunhyphen"/>ons for <hi>Murthering</hi> Princes, <hi>Burning</hi> Heretical Cities, <hi>&amp;c.</hi> W<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> shall Inspire you within person, and now Conclude with our Joy<gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>
+                              <hi>Benediction.</hi>
+                           </item>
+                        </list>
+                        <q>May your Foreheads be as Walls of <hi>Corinthirn Brass,</hi> your Tongue tipt with <hi>Syrens</hi> Musique, and your <hi>Ignis fatuus</hi> lead all <hi>Europe.</hi>
+                        </q>
+                        <closer>
+                           <dateline>Given at <hi>Rome</hi>
+                              <date>this 20th. of <hi>November,</hi> S. <hi>Re.</hi> in the year of Hell<gap reason="illegible" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> Confusion, 1673.</date>
+                           </dateline>
+                           <signed>Signed with the Devils Paw, and the <hi>Seal of th<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> Fisher.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Having dispatch't away these Instructions by an <hi>Infernal Curri<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> They both fell a <hi>Quaffing</hi> some full Bowls of <hi>English Martyrs.</hi> Blood reserv'd ever since Queen <hi>Mary's</hi> days, for the <hi>Popes</hi> own Mornin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Draughts, and Sung in <hi>parts</hi> the following Versicle of an Anthem composed for their use on such occasions by <hi>Ignatius Loyola.</hi>
+            </p>
+            <sp>
+               <speaker>Devil,</speaker>
+               <l>'Tis done, and methinks already I see</l>
+               <l>Whole droves on their Journey, thronging to me:</l>
+               <l>No more will we Angle for single Souls,</l>
+               <l>Our <hi>Catholick</hi> Draw-not, shall catch 'um by Shoals.</l>
+            </sp>
+            <sp>
+               <speaker>Pope,</speaker>
+               <l>I laugh to think how our Coffers will swell,</l>
+               <l>With Treasures from this<note n="*" place="margin">England so cal<g ref="char:EOLhyphen"/>led by one of the <hi>Popes,</hi> for the vast Sums drained from hence.</note> inexhaustible well▪</l>
+               <l>How simply too, some <hi>Lay-Papists</hi> will look.</l>
+               <l>When their dear Abbey-Lands must be forsook.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus of both.</speaker>
+               <l>No matter who looses, our Intrests do joyn.</l>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <l>I cheat 'um for their Souls</l>
+            </sp>
+            <sp>
+               <speaker>[Pope]</speaker>
+               <l>And I for their Cof<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </l>
+            </sp>
+            <stage>
+               <hi>Exeat,</hi> Devil carrying the <hi>Pope</hi> a pick-pack.</stage>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
